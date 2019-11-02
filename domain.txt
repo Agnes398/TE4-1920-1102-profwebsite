@@ -1,0 +1,22 @@
+Vad ska finnas på hemsidan?
+ - Enmansföretag som letar uppdrag
+    - Specialiteter
+    - Vad erbjuder jag? (Kan kunden förstå vad jag erbjuder?)
+    - Vilken målgrupp?
+
+Vilka funktioner vill jag ha?
+ - Länkar till andra sidor
+ - Responsiv design (vilket komme rfrån bootstrap)
+
+Kom ihåg:
+Use Bootstrap!
+Happy path!
+Se till att allt som syns måste även funka! No unused links left behind!
+
+Struktur?
+ - Header/navbar
+ - Sidebar med info under de li elemnt som nämns 
+ - Content 
+    - Vad erbjuder vi? 
+    - Vilken målgrupp?
+ - Footer (copyright Nexus, uppladdad 2019)
