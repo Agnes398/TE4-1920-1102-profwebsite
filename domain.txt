@@ -10,13 +10,25 @@ Vilka funktioner vill jag ha?
 
 Kom ihåg:
 Use Bootstrap!
+ - Navbar
+ - Columns
+ - Progressbar för att visa kunskapsnivå i programmerings språk
+ - Buttons! - kontakta oss
 Happy path!
 Se till att allt som syns måste även funka! No unused links left behind!
 
 Struktur?
- - Header/navbar
- - Sidebar med info under de li elemnt som nämns 
+ - Header/navbar 
+    - Om oss
+        - Anställda aka ME! (inkludera bild)
+    - Hitta oss
+        - Vem bör man kontakta? Mitt namn + position?
+        - Vår adress
+            - Google maps?
+        - Telefonnummer
+ - Sidebar
+    - ?
  - Content 
-    - Vad erbjuder vi? 
+    - Vad erbjuder vi? (progressbar)
     - Vilken målgrupp?
  - Footer (copyright Nexus, uppladdad 2019)
