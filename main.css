@@ -8,6 +8,10 @@ body {
     border-radius: 0px;
 }
 
+.col-sm-10 {
+    padding: 20px;
+}
+
 .col-sm-10 img {
     margin: 20px 30%;
 }

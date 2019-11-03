@@ -21,7 +21,7 @@ Struktur?
  - Header/navbar 
     - Anställda
         - Anställda aka ME! (inkludera bild)
-        - 
+        - Färdigheter på alla profiler, progressbar, I have dabbled in JQuery, JavaScript. 
     - Hitta oss
         - Vem bör man kontakta? Mitt namn + position?
         - Vår adress
