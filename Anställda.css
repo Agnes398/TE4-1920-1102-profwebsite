@@ -1,0 +1,26 @@
+body {
+    background-color: #2B2928;
+    color: white;
+}
+
+.navbar-inverse {
+    margin: 0px;
+    border-radius: 0px;
+}
+
+.col-sm-2 {
+    padding: 10px 0px;
+}
+
+.col-sm-2 ul {
+    list-style: none;
+}
+
+.col-sm-10 img {
+    float: left;
+    margin: 20px;
+}
+
+.headers {
+    margin: 20px 0px 5px;
+}
