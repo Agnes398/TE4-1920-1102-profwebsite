@@ -8,14 +8,6 @@ body {
     border-radius: 0px;
 }
 
-.col-sm-2 {
-    padding: 10px 0px;
-}
-
-.col-sm-2 ul {
-    list-style: none;
-}
-
 .col-sm-10 img {
     margin: 20px 30%;
 }

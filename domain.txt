@@ -19,16 +19,21 @@ Se till att allt som syns måste även funka! No unused links left behind!
 
 Struktur?
  - Header/navbar 
-    - Om oss
+    - Anställda
         - Anställda aka ME! (inkludera bild)
+        - 
     - Hitta oss
         - Vem bör man kontakta? Mitt namn + position?
         - Vår adress
             - Google maps?
         - Telefonnummer
+    - Om oss 
+        - När grundades företaget?
+        - Vad är vårt koncept?
+        - Framtida mål?
  - Sidebar
     - ?
  - Content 
-    - Vad erbjuder vi? (progressbar)
+    - Vad erbjuder vi?
     - Vilken målgrupp?
  - Footer (copyright Nexus, uppladdad 2019)
