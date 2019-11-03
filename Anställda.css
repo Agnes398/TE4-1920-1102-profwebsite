@@ -1,6 +1,7 @@
 body {
     background-color: #2B2928;
     color: white;
+    margin-bottom: 30px;
 }
 
 .navbar-inverse {
@@ -33,4 +34,5 @@ body {
     text-align: center;
     padding: 5px;
     color: lightgrey;
+    
 }
