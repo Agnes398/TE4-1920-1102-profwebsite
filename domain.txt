@@ -37,3 +37,7 @@ Struktur?
     - Vad erbjuder vi?
     - Vilken målgrupp?
  - Footer (copyright Nexus, uppladdad 2019)
+
+
+Content text:
+Vi är ett företag som siktar på att skapa webbsidor och program som tillfredställer. Allt från hanterings progrm av olika listor
