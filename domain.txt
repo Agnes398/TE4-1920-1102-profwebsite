@@ -41,4 +41,15 @@ Struktur?
 
 Content text:
 Vi är ett enmansföretag som siktar på att skapa webbsidor och program som tillfredställer. På grund av vår produktivitet erbjuder vi webbsidor som imponerar 
-och program som aldrig besviker. Vi gillar att säga att vi tar oss ann vilka utmaningar som än kommer, därför begränsar vi inte vår målgrupp och alla är välkomna! 
+och program som aldrig besviker. Vi gillar att säga att vi tar oss ann vilka utmaningar som än kommer, därför begränsar vi inte vår målgrupp särkilt mycket.
+De primära personerna vi vänder oss till är företag samt andra enmansföretag men vi erbjuder även våra tjänster till privatpersoner som önskar att marknadsföra sitt arbete.
+
+Anställda:
+Vår anställd Agnes Löjdkvist har mycket erfarenheter inom HTML och CSS, på grund 
+av detta så är hennes specialitet webbdesign. Dock har hon jobbat lite grann med C# och har grundläggande kunskaper inom Java.
+Dessutom har hon utforskat kort inom JavaScript och även tittat lite kort på JQuery. 
+
+Om oss:
+Våra produkter siktar på att ge kunden program och webbsidor som är enkla att nivgera sig runt och som är
+enkel att använda. Tillsammans med vår enkla navigation skapar vi snygga webbsidor och program som skapas enligt önskemål. 
+För våra mål för framtiden så 
